@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there :blue_book:
 
-<!--
-**TomDev23/TomDev23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Wellington Cavalcanti, Estou estudando Programação, atualmente estou aprendendo e criando projetos com:
+- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML-LOGO">
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
+- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h3>Conect With Me</h3>
+    <a href="https://www.linkedin.com/in/wellington-cavalcanti-bb7428163"/>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+     </a>
+     <br>
+  
+     
+     ![Anurag's TOM ](https://github-readme-stats.vercel.app/api?username=TOMDEV&show_icons=true&theme=synthwave)
+     
+     
+     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+     
